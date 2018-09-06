@@ -1,3 +1,11 @@
+/*
+ * This program will ask the user the total amount of decimals of pi he would like to know, and then it will display the number.
+ *
+ * Author: Cesar Alejandro Arias Perales
+ * Date: September 6th, 2018
+ * Email: a01411995@itesm.mx
+ */
+
 #include <stdio.h>
 #include <math.h>
 
